@@ -1,0 +1,5 @@
+/home/ryan/IdeaProjects/ecommerce/src/main/java/org/example/ecommerce/EcommerceApplication.java
+/home/ryan/IdeaProjects/ecommerce/src/main/java/org/example/ecommerce/controller/ProductController.java
+/home/ryan/IdeaProjects/ecommerce/src/main/java/org/example/ecommerce/model/Product.java
+/home/ryan/IdeaProjects/ecommerce/src/main/java/org/example/ecommerce/repository/ProductRepository.java
+/home/ryan/IdeaProjects/ecommerce/src/main/java/org/example/ecommerce/service/ProductService.java
